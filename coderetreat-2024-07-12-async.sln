@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coderetreat-2024-07-12-async", "coderetreat-2024-07-12-async\coderetreat-2024-07-12-async.csproj", "{DD98C1EB-97BB-4378-A653-79FC2D13CE55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD98C1EB-97BB-4378-A653-79FC2D13CE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD98C1EB-97BB-4378-A653-79FC2D13CE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD98C1EB-97BB-4378-A653-79FC2D13CE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD98C1EB-97BB-4378-A653-79FC2D13CE55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
